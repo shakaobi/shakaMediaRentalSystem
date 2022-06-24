@@ -1,0 +1,4 @@
+type|title|yearPublished|quantity
+B|Forever Young|2018|20
+C|Beyond Today|2021|114
+D|Forever Young|2021|120.0
